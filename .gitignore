@@ -28,4 +28,4 @@ static/docs/swagger.min.json
 coverage
 
 # Dev Files
-*.env*
+
